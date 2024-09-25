@@ -1,0 +1,1 @@
+This program simulates a simple banking system, allowing users to perform basic operations such as account creation, deposits, withdrawals, and balance inquiries. The system manages multiple accounts and ensures proper security by associating each account with unique identifiers (such as account numbers) and passwords.
